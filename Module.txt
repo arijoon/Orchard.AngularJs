@@ -1,0 +1,10 @@
+﻿Name: Orchard.AngularJs
+AntiForgery: enabled
+Author: Arman Yaraee
+Website: http://yaraee.net	
+Version: 1.0
+OrchardVersion: 1.9
+Description: AngularJs module for Orchard
+Features:
+    Orchard.AngularJs:
+        Description: AngularJS scripts for Orchard
